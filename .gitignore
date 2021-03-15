@@ -1,7 +1,4 @@
-/node_modules
-/dist
-*.log
-.idea
-.vscode
+node_modules
+dist
 package-lock.json
 *.d.ts
